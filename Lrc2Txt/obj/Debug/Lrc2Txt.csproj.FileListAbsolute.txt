@@ -1,0 +1,4 @@
+C:\Users\yhyxw\source\repos\Lrc2Txt\Lrc2Txt\bin\Debug\Lrc2Txt.exe
+C:\Users\yhyxw\source\repos\Lrc2Txt\Lrc2Txt\bin\Debug\Lrc2Txt.pdb
+C:\Users\yhyxw\source\repos\Lrc2Txt\Lrc2Txt\obj\Debug\Lrc2Txt.exe
+C:\Users\yhyxw\source\repos\Lrc2Txt\Lrc2Txt\obj\Debug\Lrc2Txt.pdb
